@@ -11,6 +11,7 @@ This task involved creating a dashboard for the retention manager that effective
 Here, I have translated the human resources analysis and personnel segmentation of PwC Switzerland employees into compelling visual representations. Through this project, I gained insights into PwC's diversity and inclusion mission statement, understanding its significance in guiding decisions for the well-being of their employees. Employing DAX and suitable visuals in Power BI enhanced the effectiveness of communicating these valuable findings.
 
 # References
-[Forage_Virtual_Internship_PWC](Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience)
+[PWC_Power_BI_Virtual_Internship](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
+
 
 Overall, I thoroughly enjoyed and challenged myself during this virtual case experience. I highly recommend it to anyone, especially data enthusiasts, as it provides valuable insights into what it's like to work with PwC. I extend my gratitude to PwC for the badge they awarded me upon completion of the experience.
